@@ -1,0 +1,7 @@
+{
+  "utterance": "help, i have fallen",
+  "intent_type": "FallIntent",
+  "intent": {
+    "Fall": "first_fall"
+  }
+}
